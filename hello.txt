@@ -1,1 +1,2 @@
 reg usivatela 2 ver
+addet 3 user logout
