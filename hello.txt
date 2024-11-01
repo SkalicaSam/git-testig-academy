@@ -1,1 +1,1 @@
-reg usivatela
+reg usivatela 2 ver
